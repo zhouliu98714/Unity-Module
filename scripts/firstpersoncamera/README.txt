@@ -1,0 +1,2 @@
+This script is the first version of my first person camera, it use wasd as command to move the camera.
+I tried to use mouse to control the camera but there was a heavy delay if I use mouse as cotroller in this structure, I will try other way to implement it, but not in this version.
