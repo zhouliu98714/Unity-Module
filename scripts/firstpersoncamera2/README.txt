@@ -1,0 +1,1 @@
+In this script, I use mouse to control the camera angle, and wasd to move the camera. I also find the way to position the camera at start.
