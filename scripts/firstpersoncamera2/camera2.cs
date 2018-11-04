@@ -10,7 +10,8 @@ public class camera2 : MonoBehaviour {
         
        // Use this for initialization
 	void Start () {
-        
+        Screen.showCursor = false;
+ Screen.lockCursor = true;
         transform.position=new Vector3(50,30,20);
         camTrans = transform;
 Vector3 startPos = transform.position;
@@ -54,7 +55,11 @@ camTrans.position = startPos;
         
         controller.SimpleMove(forward * curSpeed);
 
-       	        
+       	 
+      
+   
 
-	}
+	
+      
+}
 }
