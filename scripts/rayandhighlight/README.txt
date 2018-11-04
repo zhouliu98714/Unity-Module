@@ -1,0 +1,1 @@
+Add this script to camera will highlight the objects that in the center of the camera with red color.  
