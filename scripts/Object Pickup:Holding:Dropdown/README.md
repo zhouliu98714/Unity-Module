@@ -15,8 +15,8 @@ The code has three public variables, all of which can be set manually(dragging).
 - Required hierarchy of the player:
 In my case, 
     - "shopping cart" which is responsible for movement controls.
-       - Under the "shopping cart", it is the "first person character"	                	 (designed to be invisible) which stores the camera so it's 		 convenient to rotate the camera as for now (ROTATION of the player 	 will be implemented in the future). 
-	 - Under the "first person character", we then have our "guide", 	    which is both the "Temp Parent" and "Guide" of our public 		    variables.
+       - Under the "shopping cart", it is the "first person character" designed to be invisible) which stores the camera so it's convenient to rotate the camera as for now (ROTATION of the player will be implemented in the future). 
+	 - Under the "first person character", we then have our "guide", which is both the "Temp Parent" and "Guide" of our public variables.
 
 
 * Future Implementation
